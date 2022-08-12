@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <section className="grid md:grid-cols-2 lg:grid-cols-3">
-        <article>
+        <article className="bg-green-700">
           <h1 className="text-lg md:text-xl lg:text-2xl text-red-700">
             Article 1 overskrift
           </h1>
